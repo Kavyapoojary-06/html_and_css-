@@ -1,0 +1,54 @@
+header {
+    background-color: #554a4a;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+nav {
+    background-color: #444;
+    padding: 0.5rem;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #d3c8c8;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+
+
+.content {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 0.5rem;
+}
+.kavya{
+    text-decoration: underline;
+}
+h2{
+    text-decoration: underline;
+}
+.try{
+    width:"20dp";
+    float:right;
+   
+}
